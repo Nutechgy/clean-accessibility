@@ -1,3 +1,4 @@
+![image](https://github.com/Nutechgy/clean-accessibility/assets/147452378/c49bd700-0e05-4022-bd50-21c826383287)
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
